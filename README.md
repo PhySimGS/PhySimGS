@@ -2,9 +2,7 @@
 ### [[Projcet Page](https://PhySimGS.github.io)]    [[arXiv]()]     [[Video](https://youtu.be/YTgVACy8eF0?si=wfGpbrnA9xrFaAqe)]
 
 
-Ji Zhiyang, Lian Zhouhui
-
-Wangxuan Institute of Computer Technology (WICT), Peking University
+ANONYMOUS AUTHOR(S)
 
 ![Piepline](resource/pipeline.png)
 Abstract:*Realistic dynamic simulation of 3D objects is essential for delivering truly immersive interactive experiences. Recent advances in 3D Gaussian Splatting (3DGS) have opened up new possibilities for synthesizing lifelike object dynamics from dense point clouds. However, integrating physics-based simulation into 3DGS pipelines poses two critical challenges: how to select appropriate simulation parameters and how to define precise simulation domains. Prior work has attempted to predict elastic parameters in simple, single-object scenes, but these approaches neither automate the delineation of foreground and background nor support multi-object, multi-material settings in open environments, limiting their practical value.*
